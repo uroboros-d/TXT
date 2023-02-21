@@ -1,0 +1,7 @@
+skill_1: Basic testing theory,
+skill_2: Technologies in Web and Mobile,
+skill_3: Testing tools & Techniques,
+skill_4: Defect Tracking & Test Case Management Tools,
+skill_5: Database,
+skill_6: Cross-Browser Testing Skills,
+skill_7: Basic programming Knowledge

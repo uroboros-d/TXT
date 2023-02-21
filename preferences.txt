@@ -1,0 +1,5 @@
+favorite movie: Jocker,
+favorite series: True dtective,
+favorite food: Pizza,
+favorite season: Summer,
+country I'd like to visit: USA
