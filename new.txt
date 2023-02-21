@@ -1,0 +1,5 @@
+user_name: Dzmitry, 
+user_surname: Ivanov,
+age: 18,
+number_of_pets: 2,
+desired_salary: 2500
